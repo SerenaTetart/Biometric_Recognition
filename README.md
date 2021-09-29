@@ -30,4 +30,4 @@ The network is made from scratch and thus very slow to train, I achieved 87% acc
 
 This second project aim to **improve** damaged fingerprint by using an autoencoder also made from scratch.
 
-We can use this idea to improve handwritting for instance.
+We can also use this idea to improve handwritting for instance.
