@@ -3,7 +3,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Requirements](#requirements)
-* [Project 1: Fingerprint recognition](#Project-1---Fingerprint-recognition)
+* [Project 1: Fingerprint recognition](#Project-1---Fingerprint-recognition-(Siamese-network))
+* [Project 1b: Fingerprint recognition (triplet loss)](#Project-1b---Fingerprint-recognition-(Siamese-network-using-triplet-loss))
 * [Project 2: Fingerprint autoencoder](#Project-2---Fingerprint-autoencoder)
 
 ## General info
