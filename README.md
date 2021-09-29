@@ -34,6 +34,6 @@ This time we will use triplets and triplet-loss instead of a sigmoid to classify
 
 ## Project 2 - Fingerprint autoencoder
 
-This second project aim to **repair** damaged fingerprint by using an autoencoder also made from scratch.
+This second project aims to **repair** damaged fingerprint by using an autoencoder also made from scratch.
 
 We can use this idea to improve handwritting for instance.
