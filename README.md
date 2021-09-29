@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Requirements](#requirements)
-* [Projet 1: Fingerprint recognition](#Projet-1:-Fingerprint-recognition)
+* [Projet 1: Fingerprint recognition](#Project-1)
 
 ## General info
 These are some little projects to learn how to identify people based on their biometrics using CNN, pre-trained models, triplet-loss etc...
@@ -18,7 +18,7 @@ Libraries:
 * Tensorflow
 * Keras
 
-## Projet 1: Fingerprint recognition
+## Project 1: Fingerprint recognition
 
 The dataset used is Sokoto Coventry Fingerprint Dataset (SOCOFing) from Kaggle: https://www.kaggle.com/ruizgara/socofing/home
 
