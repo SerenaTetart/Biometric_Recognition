@@ -1,1 +1,3 @@
 # Biometric_Recognition
+
+These are a bunch of little projects to learn how to identify people based on their biometrics using CNN, pre-trained models, triplet-loss etc...
