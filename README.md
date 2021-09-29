@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Requirements](#requirements)
 * [Project 1: Fingerprint recognition](#project-1---fingerprint-recognition-siamese-network)
-* [Project 1b: Fingerprint recognition (triplet loss)](project-1b---fingerprint-recognition-siamese-network-using-triplet-loss)
+* [Project 1b: Fingerprint recognition (triplet loss)](#project-1b---fingerprint-recognition-siamese-network-using-triplet-loss)
 * [Project 2: Fingerprint autoencoder](#Project-2---Fingerprint-autoencoder)
 
 ## General info
