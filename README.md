@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Requirements](#requirements)
 * [Project 1: Fingerprint recognition](#Project-1---Fingerprint-recognition)
+* [Project 2 - Fingerprint autoencoder](#Project-2---Fingerprint-autoencoder)
 
 ## General info
 These are some little projects to learn how to identify people based on their biometrics using CNN, pre-trained models, triplet-loss etc...
