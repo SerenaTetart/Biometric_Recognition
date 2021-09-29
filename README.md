@@ -26,8 +26,8 @@ The network is designed to have 2 inputs and substract embeddings from both inpu
 
 The network is made from scratch and thus very slow to train, I achieved 87% accuracy (~13% error), if I want to improve it I will use Resnet50 or VGG19.
 
-## Project 2 - Fingerprint autoencoder (Improve)
+## Project 2 - Fingerprint autoencoder
 
-This second project aim to improve damaged fingerprint by using an autoencoder also made from scratch.
+This second project aim to **improve** damaged fingerprint by using an autoencoder also made from scratch.
 
 We can use this idea to improve handwritting for instance.
