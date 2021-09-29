@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Requirements](#requirements)
-* [Projet 1: Fingerprint recognition](#Project-1)
+* [Project 1: Fingerprint recognition](#Project-1:-Fingerprint-recognition)
 
 ## General info
 These are some little projects to learn how to identify people based on their biometrics using CNN, pre-trained models, triplet-loss etc...
