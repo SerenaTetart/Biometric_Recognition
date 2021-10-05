@@ -32,6 +32,17 @@ The network is made from scratch and thus very slow to train, I achieved 87% acc
 
 This time we will use triplets and triplet-loss instead of a sigmoid to classify if a person belong to a database.
 
+Triplet-loss consist of retrieving batch of triplets such as one image serves as the anchor, one as the positive (same class or person) and one negative (different person), we then compute the distance between the anchor and the positive then the distance between the anchor and the negative image.
+The goal is to make the positive image closer to the anchor than the negative image.
+
+
+(From 2015 Facenet paper)
+
+The formula to compute the loss is: 
+<img src="https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Csum_%7Bi%7D%5E%7BN%7D%5B+%5Cleft%5C%7C+f%28x_%7Bi%7D%5E%7Ba%7D%29+-+f%28x_%7Bi%7D%5E%7Bp%7D%29+%5Cright%5C%7C_%7B2%7D%5E%7B2%7D+-+%5Cleft%5C%7C+f%28x_%7Bi%7D%5E%7Ba%7D%29+-+f%28x_%7Bi%7D%5E%7Bn%7D%29+%5Cright%5C%7C_%7B2%7D%5E%7B2%7D+%2B+%5Calpha%5D">
+
+Where: 
+
 ## Project 2 - Fingerprint autoencoder
 
 This second project aims to **repair** damaged fingerprint by using an autoencoder also made from scratch.
