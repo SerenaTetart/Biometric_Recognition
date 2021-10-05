@@ -40,8 +40,10 @@ The goal is to make the positive image closer to the anchor than the negative im
   <br><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf">(From 2015 Facenet paper)</a>
 </p>
 
+<p align="center">
 The formula to compute the loss is: 
 <img src="https://user-images.githubusercontent.com/65224852/136038688-0cac2328-6401-4097-82a2-6b232ac6c44c.png">
+</p>
 
 Where: 
 
