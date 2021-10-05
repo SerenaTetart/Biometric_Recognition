@@ -37,8 +37,8 @@ The goal is to make the positive image closer to the anchor than the negative im
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65224852/136037732-40608fcb-2ab0-42db-adba-eba74076dd3c.png"/>
+  (From 2015 Facenet paper)
 </p>
-(From 2015 Facenet paper)
 
 The formula to compute the loss is: 
 <img src="https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Csum_%7Bi%7D%5E%7BN%7D%5B+%5Cleft%5C%7C+f%28x_%7Bi%7D%5E%7Ba%7D%29+-+f%28x_%7Bi%7D%5E%7Bp%7D%29+%5Cright%5C%7C_%7B2%7D%5E%7B2%7D+-+%5Cleft%5C%7C+f%28x_%7Bi%7D%5E%7Ba%7D%29+-+f%28x_%7Bi%7D%5E%7Bn%7D%29+%5Cright%5C%7C_%7B2%7D%5E%7B2%7D+%2B+%5Calpha%5D">
