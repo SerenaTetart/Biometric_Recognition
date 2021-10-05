@@ -48,7 +48,7 @@ The formula to compute the loss is:
 
 Where:
 * x is the training set, xa the anchor image, xp the positive, xn the negative
-* \alpha  is a constant ranging from 0.2 to 1.0
+* \<alpha> is a constant ranging from 0.2 to 1.0
 * f(xi) is the embeding of the i-th image from the training set.
 
 ## Project 2 - Fingerprint autoencoder
