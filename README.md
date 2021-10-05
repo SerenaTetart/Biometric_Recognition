@@ -43,7 +43,7 @@ The goal is to make the positive image closer to the anchor than the negative im
 The formula to compute the loss is:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/136113526-06ceecb3-11f6-428b-b668-83b833b0d976.png">
+<img src="https://user-images.githubusercontent.com/65224852/136113757-b30d3451-6482-472a-973e-1a269a09f5f7.PNG">
 </p>
 
 Where:
