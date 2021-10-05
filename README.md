@@ -30,7 +30,7 @@ The network is made from scratch and thus very slow to train, I achieved 87% acc
 
 ## Project 1b - Fingerprint recognition (Siamese network using triplet loss)
 
-This time we will use vgg19 as the base model and triplet-loss instead of a binary sigmoid activation to classify if a person belong to a database.
+This time we will use VGG19 as the base model and triplet-loss instead of a binary sigmoid activation to classify if a person belong to a database.
 
 Triplet-loss consist of retrieving batch of triplets such as one image serves as the anchor, one as the positive (same class or person) and one negative (different person), we then compute the distance between the anchor and the positive then the distance between the anchor and the negative image.
 The goal is to make the positive image closer to the anchor than the negative image.
