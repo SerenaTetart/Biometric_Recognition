@@ -49,7 +49,7 @@ The formula to compute the loss is:
 Where:
 * x is the training set, xa the anchor image, xp the positive, xn the negative
 * α is a constant ranging from 0.2 to 1.0
-* f(xi) is the embeding of the i-th image from the training set.
+* f(xi) is the embedding of the i-th image from the training set.
 
 Hopefully tensorflow has already an implementation of triplet-loss with tfa.losses.TripletSemiHardLoss() which compute everything written before with one line of code.
 
