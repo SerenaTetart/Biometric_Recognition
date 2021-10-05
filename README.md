@@ -35,7 +35,7 @@ This time we will use triplets and triplet-loss instead of a sigmoid to classify
 Triplet-loss consist of retrieving batch of triplets such as one image serves as the anchor, one as the positive (same class or person) and one negative (different person), we then compute the distance between the anchor and the positive then the distance between the anchor and the negative image.
 The goal is to make the positive image closer to the anchor than the negative image.
 
-![FacenetPaper](https://user-images.githubusercontent.com/65224852/136037365-4d1eb5a8-31c8-46e3-a26a-b76a3a5d50c6.png)
+![FacenetPaper](https://user-images.githubusercontent.com/65224852/136037732-40608fcb-2ab0-42db-adba-eba74076dd3c.png)
 (From 2015 Facenet paper)
 
 The formula to compute the loss is: 
