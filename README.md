@@ -36,7 +36,7 @@ Triplet-loss consist of retrieving batch of triplets such as one image serves as
 The goal is to make the positive image closer to the anchor than the negative image.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65224852/136037732-40608fcb-2ab0-42db-adba-eba74076dd3c.png"/>
+  <img src="https://user-images.githubusercontent.com/65224852/136039328-766c7e20-1730-4f0f-a465-c65cf4a08c70.png"/>
   <br><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf">(From 2015 Facenet paper)</a>
 </p>
 
