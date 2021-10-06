@@ -31,7 +31,7 @@ The network is made from scratch and thus very slow to train, I achieved 87% acc
 The model architecture is the following:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/136270436-591d4294-b6bc-440b-ac3d-127da71e0cad.png">
+<img src="https://user-images.githubusercontent.com/65224852/136270793-0e8de9a3-8857-43b0-afaf-8c48ffd4098e.png">
 </p>
 
 ## Project 1b - Fingerprint recognition (Siamese network using triplet loss)
