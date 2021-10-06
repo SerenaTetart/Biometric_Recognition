@@ -28,6 +28,12 @@ The network is designed to have 2 inputs and substract embeddings from both to c
 
 The network is made from scratch and thus very slow to train, I achieved 87% accuracy (~13% error), if I want to improve it I will use Resnet50 or VGG19.
 
+The model architecture is the following:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/136270436-591d4294-b6bc-440b-ac3d-127da71e0cad.png">
+</p>
+
 ## Project 1b - Fingerprint recognition (Siamese network using triplet loss)
 
 This time we will use VGG19 as the base model and triplet-loss instead of a binary sigmoid activation to classify if a person belong to a database.
