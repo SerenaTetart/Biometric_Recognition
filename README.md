@@ -70,3 +70,8 @@ Below you can see the U-Net architecture:
   <img src="https://user-images.githubusercontent.com/65224852/136661667-c1bf2334-38ec-4737-9442-bfde615e1d3a.png"/>
   <br><a href="https://arxiv.org/pdf/1505.04597v1.pdf">(From 2015 U-Net paper)</a>
 </p>
+
+And some of my results:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65224852/136661810-6155bfc5-dc40-4cd6-b6fe-d00d6b89b2ac.PNG"/>
+</p>
