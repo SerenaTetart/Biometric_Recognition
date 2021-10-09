@@ -68,5 +68,5 @@ We can use this idea to improve handwriting or image resolution, or even use thi
 Below you can see the U-Net architecture:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65224852/136661667-c1bf2334-38ec-4737-9442-bfde615e1d3a.png"/>
-  <br><a href="https://arxiv.org/abs/1505.04597v1">(From 2015 U-Net paper)</a>
+  <br><a href="https://arxiv.org/pdf/1505.04597v1.pdf">(From 2015 U-Net paper)</a>
 </p>
