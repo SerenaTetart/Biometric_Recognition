@@ -73,5 +73,5 @@ Below you can see the U-Net architecture:
 
 And some of my results:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65224852/136661901-54fb33b9-bee6-49fb-9fa2-6347a5c27eb5.png"/>
+  <img src="https://user-images.githubusercontent.com/65224852/136662043-c614470d-2d6f-4e19-9ee8-e8b05c83b092.png"/>
 </p>
