@@ -71,6 +71,11 @@ Below you can see the U-Net architecture:
   <br><a href="https://arxiv.org/pdf/1505.04597v1.pdf">(From 2015 U-Net paper)</a>
 </p>
 
+The loss is just a mean-squared error pixel by pixel:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65224852/136663308-5c25c390-8387-41ef-9634-32cd0dbf51da.png"/>
+</p>
+
 And some of my results:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65224852/136662043-c614470d-2d6f-4e19-9ee8-e8b05c83b092.png"/>
