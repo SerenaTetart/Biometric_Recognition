@@ -78,7 +78,7 @@ The loss is just a mean-squared error pixel by pixel:
 
 Where:
 * x is the training set, xa the altered image, xb the real (clean) image
-* f(xi) is the pixel value of the i-th image from the batch
+* f(xi) is the pixel's value of the i-th image from the batch
 
 And some of my results:
 <p align="center">
