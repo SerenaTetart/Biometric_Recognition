@@ -76,6 +76,10 @@ The loss is just a mean-squared error pixel by pixel:
   <img src="https://user-images.githubusercontent.com/65224852/136663429-6cb4de0a-9b02-4789-99d0-c35da05550c5.png"/>
 </p>
 
+Where:
+* x is the training set, xa the altered image, xb the real (clean) image
+* f(xi) is the value of the i-th pixel
+
 And some of my results:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65224852/136662043-c614470d-2d6f-4e19-9ee8-e8b05c83b092.png"/>
