@@ -85,4 +85,4 @@ And some of my results:
   <img src="https://user-images.githubusercontent.com/65224852/136662043-c614470d-2d6f-4e19-9ee8-e8b05c83b092.png"/>
 </p>
 
-But the model isn't deep enough to produce a perfect result, U-Net has been there for 6 years (or more based on when you read this) and to make it work we need to add a couple of convolutions here and there...
+Although the model isn't perfect enough and needs a bit of optimisation.
