@@ -82,8 +82,8 @@ Where:
 
 And some of my results:
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/65224852/143256198-d422b94a-2cca-4e17-ae75-881903c7778f.png"/>
   <img src="https://user-images.githubusercontent.com/65224852/136662043-c614470d-2d6f-4e19-9ee8-e8b05c83b092.png"/>
-  <img src="https://user-images.githubusercontent.com/65224852/143255880-42e0050b-ec95-46be-b0a1-9702df23557e.png"/>
 </p>
 
 Although the model isn't perfect enough and needs a bit of optimisation.
