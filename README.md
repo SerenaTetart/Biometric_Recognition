@@ -26,7 +26,7 @@ The dataset used is Sokoto Coventry Fingerprint Dataset (SOCOFing) from Kaggle: 
 
 The network is designed to have 2 inputs and substract embeddings from both to classify if the inputs are from the same person or not.
 
-The network is made from scratch and thus very slow to train, I achieved 87% accuracy (~13% error), if I want to improve it I will use Resnet50 or VGG19.
+The network is made from scratch and thus very slow to train, I achieved 87% accuracy (~13% error), if I want to improve it I will use Resnet50 or VGG19, see the project 1b for better results.
 
 The model architecture is the following:
 
