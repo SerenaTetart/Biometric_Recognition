@@ -59,6 +59,8 @@ Where:
 
 Hopefully tensorflow has already an implementation of triplet-loss with tfa.losses.TripletSemiHardLoss() which compute everything written before with one line of code.
 
+And we have ~82% Accuracy with only a few epochs.
+
 ## Project 2 - Fingerprint autoencoder
 
 This second project aims to **repair** damaged fingerprint by using the U-Net autoencoder.
@@ -85,5 +87,3 @@ And some of my results:
   <img src="https://user-images.githubusercontent.com/65224852/143256198-d422b94a-2cca-4e17-ae75-881903c7778f.png"/>
   <img src="https://user-images.githubusercontent.com/65224852/136662043-c614470d-2d6f-4e19-9ee8-e8b05c83b092.png"/>
 </p>
-
-Although the model isn't perfect enough and needs a bit of optimisation.
