@@ -59,7 +59,7 @@ Where:
 
 Hopefully tensorflow has already an implementation of triplet-loss with tfa.losses.TripletSemiHardLoss() which compute everything written before with one line of code.
 
-And we have ~82% Accuracy with only a few epochs.
+And we have ~82% Accuracy with only a few epochs of fine tuning.
 
 ## Project 2 - Fingerprint autoencoder
 
